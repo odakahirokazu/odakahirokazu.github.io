@@ -31,7 +31,7 @@ h3{
     font-size: 100%;
 }
 
-div.table_of_contents p{
+div.table-of-contents p{
     padding: 0em 2em;
     font-size: 90%;
 }
@@ -52,7 +52,7 @@ a:hover {
     text-decoration: none;
 }
 
-#select_lang {
+#select-lang {
     text-align: center;
     font-size: 120%;
     font-weight: bold;
